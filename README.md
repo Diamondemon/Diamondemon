@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julien</h1>
+<h1 align="center">Hi 👋, I'm Julien aka Diamonndemon</h1>
 <h3 align="center">A french engineering student and developper</h3>
 
 - 🌱 I’m currently learning **lots, mainly about opengl and such**
