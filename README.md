@@ -70,6 +70,9 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
     </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img src="https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-logomark-320px.png" alt="flutter" width="40" height="40"/>
+    </a>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
     </a>
