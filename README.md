@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julien and I go online by Diamondemon</h1>
+<h1 align="center">Hi 👋, I'm Julien and I go online as Diamondemon</h1>
 <h3 align="center">A french engineering student and developer</h3>
 
 - 🌱 I am attending my last year of engineering studies at Telecom Paris in parallel with the second year of a Master's degree in Interactions, Graphics and Design at the Institut Polytechnique de Paris. This means I’m currently learning **lots, about HCI and UI design and implementation, 3D rendering and videogame programming**. 
