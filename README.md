@@ -17,17 +17,12 @@ If you are looking for my projects, the main ones are these 3:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien-marzal" height="30" width="40" />
 </a>
 </p>
-
-<style>
-.langtools {
+<div style ="
     background-color: grey;
     color: black;
     padding: 10px;
     border-radius: 10px;
-}
-</style>
-
-<div class="langtools">
+">
     <h3 align="left">Languages and Tools I am acquainted with:</h3>
     <p align="left"> 
         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
