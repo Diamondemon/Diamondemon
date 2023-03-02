@@ -5,6 +5,12 @@
 
 - 📫 Reach me by email at **julien.marzal@telecom-paris.fr**
 
+If you are looking for my projects, the main ones are these 3:
+
+- RPG Charac Sheet [here](https://github.com/Diamondemon/RPG_CharacSheet), a desktop app made with Python and Qt for Python
+- ImproHelper [here](https://github.com/Diamondemon/ImproHelper), a mobile app made with Flutter
+- Cop1 App [here](https://github.com/Diamondemon/cop1App), a mobile app made with Flutter
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/julien-marzal" target="blank">
@@ -22,7 +28,7 @@
 </style>
 
 <div class="langtools">
-    <h3 align="left">Languages and Tools:</h3>
+    <h3 align="left">Languages and Tools I am acquainted with:</h3>
     <p align="left"> 
         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
