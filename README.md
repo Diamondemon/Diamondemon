@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Julien aka Diamondemon</h1>
-<h3 align="center">A french engineering student and developper</h3>
+<h1 align="center">Hi 👋, I'm Julien and I go online as Diamondemon</h1>
+<h3 align="center">A french engineering student and developer</h3>
 
-- 🌱 I’m currently learning **lots, mainly about opengl and such**
+- 🌱 I am attending my last year of engineering studies at Telecom Paris in parallel with the second year of a Master's degree in Interactions, Graphics and Design at the Institut Polytechnique de Paris. This means I’m currently learning **lots, about HCI and UI design and implementation, 3D rendering and videogame programming**. 
 
-- 📫 How to reach me **julien.marzal@telecom-paris.fr**
+- 📫 Reach me by email at **julien.marzal@telecom-paris.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
