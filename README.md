@@ -5,11 +5,12 @@
 
 - 📫 Reach me by email at **julien.marzal@telecom-paris.fr**
 
-If you are looking for my projects, the main ones are these 3:
+If you are looking for my projects, the main ones are these:
 
+- twoFApy [here](https://github.com/Diamondemon/Python2FAuthenticatorGUI), a desktop Two Factor Authenticator that does not depend on any Desktop Environment, made with Qt for Python
 - RPG Charac Sheet [here](https://github.com/Diamondemon/RPG_CharacSheet), a desktop app made with Python and Qt for Python
-- ImproHelper [here](https://github.com/Diamondemon/ImproHelper), a mobile app made with Flutter
-- Cop1 App [here](https://github.com/Diamondemon/cop1App), a mobile app made with Flutter
+- ImproHelper [here](https://github.com/Diamondemon/ImproHelper), a mobile app for Improv Judges made with Flutter
+- Cop1 App [here](https://github.com/Diamondemon/cop1App), a mobile app for a charity made with Flutter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
