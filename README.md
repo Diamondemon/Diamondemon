@@ -83,13 +83,13 @@ If you are looking for my projects, the main ones are these:
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
         </a>
         <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-            <img src="https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-logomark-320px.png" alt="flutter" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="flutter" width="40" height="40"/>
         </a>
         <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
         </a>
         <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png?size=48" alt="rust" width="40" height="40"/>
         </a>
         <a href="https://unity.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
